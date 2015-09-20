@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<AppDirect>
+	<Language id="English">
+		<message1>We have sent a verification email to [email address].</message1>
+		<message2>Please check your inbox and click the link to activate your account.</message2>
+		<message3>Try apps for free.</message3>
+		<message4>Free coaching and support.</message4>
+		<message5>Fast and friendly help to get you going fast.</message5>
+		<message6>Activate your account.</message6>
+	</Language>
+</AppDirect>

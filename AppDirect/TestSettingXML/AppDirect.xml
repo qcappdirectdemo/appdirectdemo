@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<AppDirect>
+	<Language id="English">
+		<message1>Please fill out this field.</message1>
+		<message2>Please enter an email address.</message2>
+		<message3>This email address has already been registered in our system. Please register with a new email address.</message3>
+		<message4>Log In | AppDirect</message4>
+		<message5>Sign Up for AppDirect</message5>
+		<message6>We have sent a verification email to [email address].</message6>
+		<message7>Please check your inbox and click the link to activate your account.</message7>
+		<message8>Sign up with Yahoo!</message8>
+		<message9>^exact:Already have an account[\\s\\S] Log In\\.$</message9>
+		<message10>^exact:Want to partner with us[\\s\\S] Sign Up\\.$</message10>
+		<message11>Sign Up</message11>
+		<message12>Log In</message12>
+	</Language>
+	<Language id="French">
+		<message1>Veuillez remplir ce champ.</message1>
+		<message2>Veuillez saisir une adresse \u00E9lectronique.</message2>
+		<message3>Cette adresse de courriel est d\u00E9j\u00E0 enregistr\u00E9 dans notre syst\u00E8me. Veuillez utiliser une autre adresse de courriel pour votre inscription, ou cliquez sur "Mot de passe oubli\u00E9?" pour obtenir un nouveau mot de passe.</message3>
+		<message4>Log In | AppDirect</message4>
+		<message5>Sign Up for AppDirect</message5>
+		<message6>Nous avons envoyé un message de vérification à l'adresse [email address].</message6>
+		<message7>Vous allez recevoir un courriel dans votre boîte de réception : cliquez sur le lien pour activer votre compte.</message7>
+		<message8>S'enregister avec Yahoo!</message8>
+		<message9>exact:Vous avez déjà un compte ? Connexion.</message9>
+		<message10>exact:Vous souhaitez travailler avec nous? Inscription.</message10>
+		<message11>Inscription</message11>
+		<message12>Connexion</message12>
+	</Language>
+</AppDirect>
